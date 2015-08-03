@@ -6,5 +6,5 @@ CarrierWave.configure do |config|
     aws_secret_access_key: ENV["aws_secret_access_key"],
     region: 'us-west-2'
   }
-  config.fog_directory  = 'name_of_directory'                          # required
+  config.fog_directory  = 'joseyelpdemo'                          # required
 end
