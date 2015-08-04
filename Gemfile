@@ -13,6 +13,7 @@ gem 'carrierwave', github:'carrierwaveuploader/carrierwave'
 gem 'fog-aws'
 gem 'fog'
 gem 'figaro'
+gem 'mini_magick'
 
 group :development, :test do
   gem 'sqlite3'
