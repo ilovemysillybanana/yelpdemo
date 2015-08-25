@@ -16,6 +16,7 @@ gem 'figaro'
 gem 'mini_magick'
 gem 'net-ssh', '2.10.0.beta2'
 gem 'devise'
+gem 'searchkick'
 
 group :development, :test do
   gem 'sqlite3'
